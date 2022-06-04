@@ -1,10 +1,10 @@
 [
-    { "id": 1, "marca": "Nike",  "nombre": "Hoodie LA Lakers Lebron", "precio": 15000, "imagen": "https://mirkoschroeder.github.io/MirkoSchroederTienda/assets/img/buzo6.jpg"},
-    { "id": 2, "marca": "Nike",  "nombre": "NSW JDI CRW Floral", "precio": 8000, "imagen": "https://mirkoschroeder.github.io/MirkoSchroederTienda/assets/img/buzo2.jpeg"},
-    { "id": 3, "marca": "Nike",  "nombre": "Jordan 1 High Blue Suede"  , "precio": 30000, "imagen": "https://mirkoschroeder.github.io/MirkoSchroederTienda/assets/img/zapatillaAzul.jpg"},
-    { "id": 4, "marca": "Nike",  "nombre": "1 Mid SE Sesame" , "precio": 25000, "imagen": "https://mirkoschroeder.github.io/MirkoSchroederTienda/assets/img/zapatillaBlanca.jpg"},
-    { "id": 5, "marca": "Nike",  "nombre": "Remera Jumpman T-Shirt", "precio": 6500, "imagen": "https://mirkoschroeder.github.io/MirkoSchroederTienda/assets/img/remera1.jpeg"},
-    { "id": 6, "marca": "Nike",  "nombre": "Remera Reissue STMT 3", "precio": 5800, "imagen": "https://mirkoschroeder.github.io/MirkoSchroederTienda/assets/img/remera5.jpg"},
-    { "id": 7, "marca": "Nike",  "nombre": "Buzo Thrma HD PO", "precio": 12000, "imagen": "https://mirkoschroeder.github.io/MirkoSchroederTienda/assets/img/buzo4.jpg"},
-    { "id": 8, "marca": "Nike",  "nombre": "Air Force 1 Laser Crimson", "precio": 26000, "imagen": "https://mirkoschroeder.github.io/MirkoSchroederTienda/assets/img/zapatillaRoja.jpg"}
+    { "id": 1, "marca": "Nike",  "nombre": "Hoodie LA Lakers Lebron", "precio": 15000, "imagen": "https://mirkoschroeder.github.io/eCommerce-HTML-CSS/assets/img/buzo6.jpg"},
+    { "id": 2, "marca": "Nike",  "nombre": "NSW JDI CRW Floral", "precio": 8000, "imagen": "https://mirkoschroeder.github.io/eCommerce-HTML-CSS/assets/img/buzo2.jpeg"},
+    { "id": 3, "marca": "Nike",  "nombre": "Jordan 1 High Blue Suede"  , "precio": 30000, "imagen": "https://mirkoschroeder.github.io/eCommerce-HTML-CSS/assets/img/zapatillaAzul.jpg"},
+    { "id": 4, "marca": "Nike",  "nombre": "1 Mid SE Sesame" , "precio": 25000, "imagen": "https://mirkoschroeder.github.io/eCommerce-HTML-CSS/assets/img/zapatillaBlanca.jpg"},
+    { "id": 5, "marca": "Nike",  "nombre": "Remera Jumpman T-Shirt", "precio": 6500, "imagen": "https://mirkoschroeder.github.io/eCommerce-HTML-CSS/assets/img/remera1.jpeg"},
+    { "id": 6, "marca": "Nike",  "nombre": "Remera Reissue STMT 3", "precio": 5800, "imagen": "https://mirkoschroeder.github.io/eCommerce-HTML-CSS/assets/img/remera5.jpg"},
+    { "id": 7, "marca": "Nike",  "nombre": "Buzo Thrma HD PO", "precio": 12000, "imagen": "https://mirkoschroeder.github.io/eCommerce-HTML-CSS/assets/img/buzo4.jpg"},
+    { "id": 8, "marca": "Nike",  "nombre": "Air Force 1 Laser Crimson", "precio": 26000, "imagen": "https://mirkoschroeder.github.io/eCommerce-HTML-CSS/assets/img/zapatillaRoja.jpg"}
 ]
