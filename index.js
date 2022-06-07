@@ -3,9 +3,8 @@ const tablaCarrito = document.getElementById("tablaCarrito");
 const btnVaciarCarrito = document.getElementById("btnVaciarCarrito");
 const btnFinalizarCompra = document.getElementById("btnFinalizarCompra");
 
-btnFinalizarCompra.addEventListener("click", finalizarCompra);
+btnFinalizarCompra.addEventListener("click", finalizarCompra)
 btnVaciarCarrito.addEventListener("click", vaciarCarrito);
-
 
 
 let carrito = JSON.parse(localStorage.getItem("carrito")) || [];
@@ -42,9 +41,7 @@ const getRow = (item) => {
         <tr>
             <th scope="row">${item.id}</th>
             <td>${item.nombre}</td>
-            <div>
-                <td> <button type="button" data-bs-dismiss="modal">-</button> ${item.cantidad} <button type="button" id="btnSumarCarrito" data-bs-dismiss="modal">+</button></td>
-            </div>
+            <td>${item.cantidad}</td>
             <td>$${item.precio * item.cantidad} ($${item.precio})</td>
             <td><img style="width:20px" src="${item.imagen}" alt="imagen"></td>
         </tr>
@@ -52,7 +49,6 @@ const getRow = (item) => {
         )
         
 }
-
 
 const cargarProductos = (datos, nodo) => {
     let acumulador = "";
